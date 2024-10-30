@@ -72,3 +72,6 @@ Estes desafios fazem parte do curso Github Certification da D.I.O, onde entramos
 ## Conclusão
 
 Os problemas abordados neste repositório são um ótimo ponto de partida para quem está aprendendo a programar em Python, cobrindo conceitos como manipulação de strings, operações aritméticas e estruturas condicionais.
+
+## Certificado
+![Captura de Tela](https://github.com/AlexsanderGS/resolvendo-algoritmos-python/blob/main/Certificado.png)
